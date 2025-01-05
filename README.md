@@ -23,3 +23,5 @@ In conclusion, an interactive quiz app serves as both an entertaining and educat
 
 **OUTPUT**
 ![Screenshot 2025-01-05 155528](https://github.com/user-attachments/assets/a13cc988-d959-4abe-ab77-99bd6e3c7976)
+![Screenshot 2025-01-05 155703](https://github.com/user-attachments/assets/49fc0300-c258-468f-a77f-c7bf007376e2)
+
