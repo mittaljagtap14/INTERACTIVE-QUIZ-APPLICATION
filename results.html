@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Results</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">🏠 Home</a>
+    <a href="quiz.html">📚 Quiz</a>
+    <a href="results.html">✅ Results</a>
+  </nav>
+  <div id="results-container">
+    <h1>🎉 Quiz Complete! 🎉</h1>
+    <p id="final-score">Your final score is: <span id="score"></span> out of <span id="total-score"></span></p>
+    <button onclick="restartQuiz()">🔄 Restart Quiz</button>
+  </div>
+  <script>
+    // Display the final score
+    const finalScore = localStorage.getItem("finalScore");
+    const totalScore = localStorage.getItem("totalScore");
+    document.getElementById("score").textContent = finalScore;
+    document.getElementById("total-score").textContent = totalScore;
+
+    // Restart the quiz
+    function restartQuiz() {
+      window.location.href = "index.html";
+    }
+  </script>
+</body>
+</html>
