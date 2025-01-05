@@ -22,3 +22,4 @@ In summary, an interactive quiz app blends entertainment with education, offerin
 In conclusion, an interactive quiz app serves as both an entertaining and educational tool, blending the excitement of gaming with the benefits of knowledge enhancement. Its engaging features, such as diverse question formats, instant feedback, and social interaction, make it an appealing choice for users of all ages. Whether you’re seeking to challenge yourself, compete with friends, or simply learn something new, these apps provide an enjoyable platform for growth and fun. With customizable quizzes, progress tracking, and global leaderboards, interactive quiz apps offer a dynamic and versatile experience that can suit a variety of interests and skill levels. Ultimately, they provide a valuable and interactive way to keep the mind sharp while having fun.
 
 **OUTPUT**
+![Screenshot 2025-01-05 155528](https://github.com/user-attachments/assets/a13cc988-d959-4abe-ab77-99bd6e3c7976)
