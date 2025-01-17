@@ -2,7 +2,7 @@
 **COMPANY** : CODTECH IT SOLUTIONS
 **NAME** : Mittal Shashikant Jagtap
 **INTERN ID** : CT08HEL
-**DOMAIN** : WEB DEVELOPMENT
+**DOMAIN** :FRONT END WEB DEVELOPMENT
 **BATCH DURATION** : December 30th,2024 to January 30th,2025
 **MENTOR NAME** : Neela Santhosh Kumar
 
